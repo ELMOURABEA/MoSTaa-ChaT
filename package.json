@@ -13,6 +13,6 @@
     "node": ">=18"
   },
   "dependencies": {
-    "mssql": "^11.0.1"
+    "mssql": "^12.7.4"
   }
 }
