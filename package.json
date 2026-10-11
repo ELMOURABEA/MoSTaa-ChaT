@@ -1,0 +1,18 @@
+{
+  "name": "mostaa-chat",
+  "version": "0.3.0",
+  "type": "module",
+  "description": "MoSTaa-ChaT Omni Channel Portal",
+  "main": "server.mjs",
+  "scripts": {
+    "start": "node server.mjs",
+    "dev": "node --watch server.mjs",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "mssql": "^11.0.1"
+  }
+}
